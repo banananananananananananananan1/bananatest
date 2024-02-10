@@ -1,3 +1,6 @@
+import './footer/footer'
+import './main/main'
+
 //import './main_first/main_first'
 //import './main_second/main_second'
 //import './modalWindow/mWindow'
